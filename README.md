@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">
+   Seja bem-vindo!👋
+</h1>
 
-<!--
-**rafaelAure/rafaelAure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+💭O poder da liberdade é criar algo novo. 
+O poder da liberdade é criar algo seu!💭
+</h3>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+ <img align="left" alt="Rafa" height="80" width="80"  src="https://casa.abril.com.br/wp-content/uploads/2021/05/dia-orgulho-geek-reproducao.gif?w=464">
+	</div>
+
+👻Olá, meu nome é  **Rafael Aureliano**
+  
+**🌱Atualmente focando em** 
+			 Desenvolvimento web / Front-_end_/ Back-_end_

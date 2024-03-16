@@ -11,7 +11,7 @@
 O poder da liberdade é criar algo seu!💭
 </h3>
 
-<br>
+<br> <br>
 
 <div>
  <img align="left" alt="Rafa" height="80" width="80"  src="https://casa.abril.com.br/wp-content/uploads/2021/05/dia-orgulho-geek-reproducao.gif?w=464">
@@ -22,7 +22,7 @@ O poder da liberdade é criar algo seu!💭
 
 <br>
 
-<div>
+<div align="left">
   <a href="https://github.com/aurelianoDeRafa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelAure&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelAure&layout=compact&langs_count=7&theme=tokyonight"/>
